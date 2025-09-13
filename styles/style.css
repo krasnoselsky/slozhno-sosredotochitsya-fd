@@ -225,6 +225,7 @@ a:focus {
 
 .title-normal {
     font-weight: 400;
+    margin-right: 5px;
 }
 
 .title-simple {
@@ -328,10 +329,10 @@ a:focus {
     .section-multitasking {
         grid-row: 2;
         grid-column: 1 / -1;
-        padding: 0px 5px 0px 9px;
+        padding: 0px 12px 0px 12px;
     }
     .article {
-        padding: 0px 5px 0px 3px;
+        padding: 0px 0px 0px 0px;
     }
     .section-advice {
         padding: 54px 10px 0px 4px;
